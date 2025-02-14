@@ -1,8 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Accordion
 
-Currently, two official plugins are available:
+"Seamless Accordion Experience – Expand, Collapse, Enjoy!"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Tech Stack
+
+**Client:**  Html, Css, Javascript, React
+
+
+
+## Badges
+
+## 🚀 **Badges**
+
+![React](https://img.shields.io/badge/React-19-blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+![Vite](https://img.shields.io/badge/Vite-4-purple)  
+![API](https://img.shields.io/badge/REST%20API-JSON-orange)  
+![Git](https://img.shields.io/badge/Git-Version--Control-red)  
+![Responsive](https://img.shields.io/badge/Responsive-Design-green)  
+![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-brightgreen)
+
+
+
+
+
+## Documentation
+
+- React Official Documentation
+- MDN Web Docs (HTML, CSS, JavaScript)
+- React Hooks Guide
+
+
+
+
+## Link 
+
+https://deepak-react-accordion.netlify.app/
